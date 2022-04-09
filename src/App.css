@@ -1,0 +1,10 @@
+.dev {
+  border: 1px solid red;
+}
+
+#wrap-loader {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
